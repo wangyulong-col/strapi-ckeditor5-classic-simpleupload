@@ -1,0 +1,19 @@
+{
+  "name": "strapi-ckeditor5-classic-simpleupload",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "./build/ckeditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyulong-col/strapi-ckeditor5-classic-simpleupload.git"
+  },
+  "author": "wyl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyulong-col/strapi-ckeditor5-classic-simpleupload/issues"
+  },
+  "homepage": "https://github.com/wangyulong-col/strapi-ckeditor5-classic-simpleupload#readme"
+}
